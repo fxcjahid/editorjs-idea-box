@@ -1,8 +1,8 @@
 ![](https://badgen.net/badge/CodeX%20Editor/v2.0/blue)
 
-# Warning Tool
+# Ideal Box Tool
 
-Provides Warning Block for the [CodeX Editor](https://ifmo.su/editor). Block has title and message. It can be used, for example, for editorials notifications or appeals.
+Provides Ideal Box Block for the [CodeX Editor](https://ifmo.su/editor). Block has title and message. It can be used, for example, for editorials notifications or appeals.
 
 ![](https://capella.pics/2d7b7bc1-ac46-4020-89c9-390d1a7297e2.jpg)
 
@@ -19,7 +19,7 @@ npm i --save-dev @editorjs/warning
 Include module at your application
 
 ```javascript
-const Warning = require('@editorjs/warning');
+const Idea = require('@editorjs/idea');
 ```
 
 ### Download to your project's source dir
